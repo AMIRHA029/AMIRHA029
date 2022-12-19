@@ -1,5 +1,5 @@
 # 👋 Hi Thare . . . 
-- ♥ I’m AmirHossein salehi .Net , C# & php web Developer in Rightech co
+- ♥ I’m AmirHossein salehi .Net , C# & php web Developer at Rightech co
 - 👀 I’m interested in programming in web , mobile and Desktop
 
 
