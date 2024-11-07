@@ -4,4 +4,4 @@
 
 
 
-- [![My Skills](https://skills.thijs.gg/icons?i=dotnet,cs,java,kotlin,androidstudio,visualstudio,vscode,mysql,git,js,jquery,html,css,bootstrap)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,java,kotlin,androidstudio,js,wasm)](https://skillicons.dev)
