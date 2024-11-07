@@ -1,5 +1,6 @@
 # 👋 Hi Thare . . . 
-- ♥ I’m AmirHossein salehi .Net , C# & php web Developer at Iknow co
+- ♥ I’m AmirHossein salehi .Net , C# web Developer
+- 📱 Android Development with kotlin and java
 - 👀 I’m interested in programming in web , mobile and Desktop
 
 
